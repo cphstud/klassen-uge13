@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class View {
     static Scanner ms = new Scanner(System.in);
-    public static String getFlower(){
+    public String getFlower(){
         String retFlower = "";
         System.out.println("Du kan vælge:");
         showFlowers();
@@ -9,11 +9,26 @@ public class View {
         return  retFlower;
     }
 
-    public static void showFlowers() {
+    public void showFlowers() {
         System.out.println("Tulipan");
         System.out.println("Rose");
         System.out.println("Lilje");
         System.out.println("Georgine");
+    }
+
+    public String getTilbehør(){
+        String retTilbehør = "";
+        System.out.println("Du kan vælge:");
+        showTilbehør();
+        retTilbehør = ms.nextLine();
+        return  retTilbehør;
+    }
+
+    public void showTilbehør() {
+        System.out.println("Ramsløg");
+        System.out.println("Mos");
+        System.out.println("Gran");
+        System.out.println("Græs");
     }
 
 }

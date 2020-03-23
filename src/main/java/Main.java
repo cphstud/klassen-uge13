@@ -1,8 +1,10 @@
+import java.awt.image.TileObserver;
 import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
 
+        View view = new View();
         boolean takeOrders = true;
         while(takeOrders) {
             // Bruger dialog
@@ -10,8 +12,13 @@ public class Main {
             // Q: Hvilken blomst?
             //A: "Tulipan"
             // return brugervalg blomst
-            String userFlower = View.getFlower();
+            String userFlower = view.getFlower();
             Blomst userBlomst = new Blomst(userFlower);
+            String tilbeHoer = view.getTilbehør();
+            Tilbehør tilbehør = new Tilbehør(tilbeHoer);
+            // Adresse?
+            
+
 
             // validering af ordre
             // afgivelse af ordre
