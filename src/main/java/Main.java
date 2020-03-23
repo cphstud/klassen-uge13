@@ -17,7 +17,14 @@ public class Main {
             String tilbeHoer = view.getTilbehør();
             Tilbehør tilbehør = new Tilbehør(tilbeHoer);
             // Adresse?
-            
+            Adresse adress = view.getAddress();
+            Buket buket = new Buket(userBlomst,tilbeHoer);
+            buket.setPris();
+            int buketPris = buket.getPris();
+            boolean ok = view.getConfirmation(buketPris);
+            Order order = new Order(buket,adress);
+            // gem ordrer .. hvor?
+
 
 
             // validering af ordre
