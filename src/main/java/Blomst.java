@@ -7,6 +7,14 @@ public class Blomst {
         setPris();
     }
 
+    public String getName() {
+        return name;
+    }
+
+    public int getPris() {
+        return pris;
+    }
+
     public void setPris() {
         switch (this.name) {
             case "Tulipan": this.pris = 40;break;
