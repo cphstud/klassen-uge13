@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de740e38-9836-4042-9d47-aed8f068e319" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZWIN926TVY7Rw4m1FezzNN8A09" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="MyFlowers" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de740e38-9836-4042-9d47-aed8f068e319" name="Default Changelist" comment="" />
+      <created>1584948380725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584948380725</updated>
+      <workItem from="1584948382657" duration="93000" />
+      <workItem from="1584950710171" duration="1817000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1989" y="180" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1584948393497">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1989" y="180" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.831/1440.23.1920.1057@1440.23.1920.1057" timestamp="1584948393497" />
+    <state width="1676" height="318" key="GridCell.Tab.0.bottom" timestamp="1584952492070">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1676" height="318" key="GridCell.Tab.0.bottom/0.23.1440.833/1440.23.1920.1057@1440.23.1920.1057" timestamp="1584952492070" />
+    <state width="1676" height="318" key="GridCell.Tab.0.center" timestamp="1584952492068">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1676" height="318" key="GridCell.Tab.0.center/0.23.1440.833/1440.23.1920.1057@1440.23.1920.1057" timestamp="1584952492068" />
+    <state width="1676" height="318" key="GridCell.Tab.0.left" timestamp="1584952492066">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1676" height="318" key="GridCell.Tab.0.left/0.23.1440.833/1440.23.1920.1057@1440.23.1920.1057" timestamp="1584952492066" />
+    <state width="1676" height="318" key="GridCell.Tab.0.right" timestamp="1584952492069">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1676" height="318" key="GridCell.Tab.0.right/0.23.1440.833/1440.23.1920.1057@1440.23.1920.1057" timestamp="1584952492069" />
+    <state width="1676" height="318" key="GridCell.Tab.1.bottom" timestamp="1584952514450">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1676" height="318" key="GridCell.Tab.1.bottom/0.23.1440.833/1440.23.1920.1057@1440.23.1920.1057" timestamp="1584952514450" />
+    <state width="1676" height="318" key="GridCell.Tab.1.center" timestamp="1584952514449">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1676" height="318" key="GridCell.Tab.1.center/0.23.1440.833/1440.23.1920.1057@1440.23.1920.1057" timestamp="1584952514449" />
+    <state width="1676" height="318" key="GridCell.Tab.1.left" timestamp="1584952514448">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1676" height="318" key="GridCell.Tab.1.left/0.23.1440.833/1440.23.1920.1057@1440.23.1920.1057" timestamp="1584952514448" />
+    <state width="1676" height="318" key="GridCell.Tab.1.right" timestamp="1584952514450">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1676" height="318" key="GridCell.Tab.1.right/0.23.1440.833/1440.23.1920.1057@1440.23.1920.1057" timestamp="1584952514450" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
