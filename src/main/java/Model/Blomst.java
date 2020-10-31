@@ -1,3 +1,5 @@
+package Model;
+
 public class Blomst {
     String name;
     int pris;

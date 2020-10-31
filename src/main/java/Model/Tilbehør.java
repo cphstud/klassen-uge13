@@ -1,3 +1,5 @@
+package Model;
+
 public class Tilbehør {
     String name;
     int pris;

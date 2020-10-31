@@ -1,3 +1,5 @@
+package Model;
+
 public class Buket {
     Blomst blomst;
     Tilbehør tilbehør;

@@ -1,0 +1,32 @@
+@startuml
+actor Alfonso
+Alfonso -> view: "login"
+mainController -> view: showMainMenu()
+mainController -> bestillinger: new Bestillinger()
+mainController <-- bestillinger: bestillinger
+'Alfonso -> view: "new order"
+'mainController <- view: newOrderSel()
+'mainController -> order: new Order()
+'mainController <-- order: order
+'mainController -> view: showCreateOrderMenu()
+'Alfonso -> view: "select flowers"
+'view -> mainController: selectFlowers
+'mainController -> FlowerMenu : createMenu()
+'Flower --> FlowerMenu : flower
+'Flower --> FlowerMenu : flower
+'Flower --> FlowerMenu : flower
+'mainController <- FlowerMenu : flowerMenu()
+'mainController -> view: display flowers
+'Alfonso -> view: select flowers
+'mainController <- view: ArrayList<String>flowers
+'mainController <- mainController:
+'mainController -> Flower : createFlower()
+'mainController <-- Flower : flower1
+'mainController <-- Flower : flower2
+'mainController -> view: showTilbehørMenu()
+'mainController -> TilbehørMenu : createMenu()
+'Alfonso -> view: "select tilbehør"
+
+
+
+@enduml

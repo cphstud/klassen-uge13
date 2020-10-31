@@ -1,10 +1,11 @@
+import Model.*;
 import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
 
 public class OrdreTest {
-    Ordre  ordre;
+    Ordre ordre;
     Blomst blomst;
     Adresse adresse;
     Buket buket;

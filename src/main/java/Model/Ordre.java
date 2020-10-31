@@ -1,3 +1,5 @@
+package Model;
+
 public class Ordre {
     static int orderCounter=12200;
     Buket buket;

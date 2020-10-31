@@ -2,18 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de740e38-9836-4042-9d47-aed8f068e319" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Adresse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Buket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ordre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BlomstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/OrdreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Controller/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Model/Bestillinger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Model/FlowerMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Model/TilbehørMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Util/ConsoleUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/takeOrder.puml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Blomst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Blomst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Adresse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Adresse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Blomst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Blomst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Buket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Buket.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tilbehør.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tilbehør.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Blomst.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Blomst.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/View.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/View.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ordre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Ordre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tilbehør.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Tilbehør.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/View/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BlomstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BlomstTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/OrdreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrdreTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,11 +30,15 @@
       <executable />
     </execution>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CodeIris Favorites" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="UML Sequence" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -51,6 +60,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultPlantUmlFileTemplate" value="UML Sequence" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -126,6 +136,10 @@
       <updated>1584948380725</updated>
       <workItem from="1584948382657" duration="93000" />
       <workItem from="1584950710171" duration="9309000" />
+      <workItem from="1585595458561" duration="1902000" />
+      <workItem from="1585636239033" duration="3711000" />
+      <workItem from="1585736997583" duration="7865000" />
+      <workItem from="1585818996757" duration="2809000" />
     </task>
     <servers />
   </component>
@@ -133,15 +147,20 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2152" y="213" key="#com.intellij.ide.util.MemberChooser" timestamp="1584960058848">
+    <state x="2152" y="213" key="#com.intellij.ide.util.MemberChooser" timestamp="1585596494652">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
+    <state x="2152" y="213" key="#com.intellij.ide.util.MemberChooser/0.23.1440.832/1440.23.1920.1057@1440.23.1920.1057" timestamp="1585596494652" />
     <state x="2152" y="213" key="#com.intellij.ide.util.MemberChooser/0.23.1440.833/1440.23.1920.1057@1440.23.1920.1057" timestamp="1584960058848" />
     <state x="1989" y="180" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1584960626176">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="1989" y="180" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.831/1440.23.1920.1057@1440.23.1920.1057" timestamp="1584948393497" />
     <state x="1989" y="180" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.833/1440.23.1920.1057@1440.23.1920.1057" timestamp="1584960626176" />
+    <state x="2006" y="93" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585647428546">
+      <screen x="1440" y="23" width="1920" height="1004" />
+    </state>
+    <state x="2006" y="93" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.877/1440.23.1920.1004@1440.23.1920.1004" timestamp="1585647428546" />
     <state width="1676" height="257" key="GridCell.Tab.0.bottom" timestamp="1584961878103">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
